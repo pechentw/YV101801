@@ -33,6 +33,5 @@ public class MainActivity extends AppCompatActivity {
         Intent it = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(it);
 
-
     }
 }
